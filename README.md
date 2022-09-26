@@ -20,3 +20,6 @@ streamlit run palettegenerator.py
 ```
 
 The notebook included in here is supposed to generate an extremely long barcode like barchart which takes the most dominant colour from each image file in a folder. As you can see from the ArtChromaticStorytelling2022.png I draw way too much. This isn't even my final form. I thought of making this an app too, but I haven't figured out the direction, so it's just going to remain a notebook until I think of something. 
+
+## Extremely quick demo
+![](https://github.com/error521/Chromatic-Storytelling/blob/main/2022-09-26_streamlitdemo.gif)
